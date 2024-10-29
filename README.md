@@ -1,7 +1,7 @@
 Hi! My name is Aykın Sancaklı 😄
 ========================================================================================================================================
 
-🌍  I am a Front End Developer based in Istanbul, Turkey.
+🌍  I am a Front-End Developer based in Istanbul, Turkey.
 <br/>
 
 ### Skills
